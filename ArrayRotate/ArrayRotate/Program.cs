@@ -10,18 +10,20 @@ namespace ArrayRotate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("how much would you like the array to be rotated");
+            while (true)
+            {
+                Console.WriteLine("how much would you like the array to be rotated");
 
-            //-- hardcoded array to make this easier to make the logic
-            string[] hardCodeArray = new string[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
-            //-- Shows the array in console
-            PrintArray(hardCodeArray);
+                //-- hardcoded array to make this easier to make the logic
+                string[] hardCodeArray = new string[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
+                //-- Shows the array in console
+                PrintArray(hardCodeArray);
 
-            int rotatedBy = Convert.ToInt32(Console.ReadLine());
+                int rotatedBy = Convert.ToInt32(Console.ReadLine());
 
-            //-- shows the rotated array
-            PrintArray(ArrayToTheRight(hardCodeArray, rotatedBy));
-            Console.ReadLine();
+                //-- shows the rotated array
+                PrintArray(ArrayToTheRight(hardCodeArray, rotatedBy));
+            }
         }
         public static string[] ArrayToTheRight(string[] array, int rotatedBy)
         {

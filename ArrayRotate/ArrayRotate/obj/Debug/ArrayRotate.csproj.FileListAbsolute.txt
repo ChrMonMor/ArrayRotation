@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\bin\Debug\ArrayRotate.exe.config
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\bin\Debug\ArrayRotate.exe
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\bin\Debug\ArrayRotate.pdb
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\obj\Debug\ArrayRotate.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\obj\Debug\ArrayRotate.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\obj\Debug\ArrayRotate.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\obj\Debug\ArrayRotate.exe
+C:\Users\HFGF\source\repos\ArrayRotation\ArrayRotate\ArrayRotate\obj\Debug\ArrayRotate.pdb
